@@ -520,7 +520,7 @@ hungry, so they went hunting for frogs and eels in a
 ditch which drained the water-meadow.
 
 Here they disturbed Old Nog, who was overlooking
-one of his many fishing places along the valley. <i>Krark!</i>[**P2:or Krakl.|P3: Not Krarkl either.]
+one of his many fishing places along the valley. <i>Krark!</i>
 He flapped away before them, his long, thin, green toes
 scratching the water. The otters hunted the ditch until
 the moon paled of its gleam, when they went back to
@@ -541,7 +541,7 @@ on rudder, was asleep.
 The rising sun silvered the mist lying low and dense
 -----File: 026.png---------------------------------------------------------
 on the meadow, where cattle stood on unseen legs.
-Over the mist of[**!?] the white owl was flying, on broad
+Over the mist of the white owl was flying, on broad
 soft wings. It wafted itself along, light as the mist; the
 sun showed the snowy feathers on breast and under-wings,
 and lit the yellow-gold and grey of its back.
@@ -1211,7 +1211,7 @@ flews, and the biggest stallion-hound in the pack. He
 was black from nose to neck, except for the pallid nicks
 of old quarrelscars on his muzzle and head. No hound
 quarrelled with him now, for Deadlock was master of
-all. In his veins ran the blood of the Talbots, and one[** once ?]
+all. In his veins ran the blood of the Talbots, and once
 his bloodhound ancestors had eaten man. He had
 mastiff in him. His dam and sire had pulled down many
 a deer at bay in the waters of the moor, and died fireside
@@ -2084,7 +2084,7 @@ quizzing him from among the ash-sprays.
 He stretched up his head and
 sniffed, and at the movement the eye
 disappeared. Ticking cries sounded
-from the middle of the tangle[**P2:missing period?]
+from the middle of the tangle.
 
 Hearing them, an ackymal that had been searching
 the stream-side hawthorn boughs for green caterpillars
@@ -2577,7 +2577,7 @@ the two grown otters, for they never yikkered
 or tissed at each other. Indeed, although Tarka’s
 mother did not remember Greymuzzle, the old otter
 had played with her and her cub brothers all one
-night in one of the duckponds near the estuary[**P2: missing period?]
+night in one of the duckponds near the estuary.
 
 The rain was blown in grey drifts down the valley,
 and the river flooded the martin holes that riddled
@@ -3241,7 +3241,7 @@ and one upturned web. The pollack turned
 down a sheer rock hung with thong-weed, but, meeting
 Tarka, turned up again and was caught by Oylegrin.
 
-The chasing arrow-head[**P3: no hyphen above] buckled against the rock, in
+The chasing arrow-head buckled against the rock, in
 a tangle of thongs and ribbons and bubbles shaking upwards.
 -----File: 110.png---------------------------------------------------------
 The giant conger had bitten the shag through
@@ -4286,7 +4286,7 @@ ten thousand flying seeds in each brown head.
 Water covered the pond ice, deep enough to sail a
 feather, and at night every hoof-hole held its star.
 
-Aften[*&*P3: After] seven sunrisings the mosses were green on the
+After seven sunrisings the mosses were green on the
 hillocks, lapwings tumbled and dived and cried their
 sweet mating cries, the first flower bloomed in the Burrows--the
 lowly vernal whitlow grass, with its tiny
@@ -4881,7 +4881,7 @@ through the centuries, raised it with shillets, and turned
 away to a newer course. Brambles, thorns, elderberry
 bushes, nettles, and briars grew entangled along the
 silent waterway. It was the haunt of grass snakes, frogs,
-mice, and a wild sandy ramcat without any paws. For
+mice, and a wild sandy ram-cat without any paws. For
 the first three years of its life the cat had been lean,
 feeding on rats in and around a corn-mill and answering
 to the name of Shaggery. During its fourth year it
@@ -4904,7 +4904,7 @@ in a deep rabbit bury under a thorn brake.
 
 Tarka ran over its scent, and followed it along the
 old riverbed. The cat was sitting on a boulder, from
-which it had been watching a volerun[**P3: vole run] below. Tarka
+which it had been watching a vole run below. Tarka
 stopped, surprised as the cat. Shaggery’s ears flattened,
 its body increased into a loop of agitated fur, and it
 let out such a waul that Tarka’s back began to twitch.
@@ -4915,7 +4915,7 @@ by touching the stone on which it stood, and the ram-cat
 made a noise like one Tarka had heard before,
 when a pailful of hot embers had been shot over the
 village quay by the estuary. He fled, remembering a
-burn. Alone again, the ram-cat[**P2:unhyphenated previous page] lowered body on stumps,
+burn. Alone again, the ram-cat lowered body on stumps,
 and lifted ears to listen for voles.
 
 When the next night White-tip followed Tarka’s
@@ -4955,7 +4955,7 @@ lowest veering on broad vanes, cleaver-shaped, heavily
 with rolling sweeps into the lingering wind that eddied
 about the top of oak trees. The tree-trunks were dark;
 only from the high young branches had the sun struck
-colour, yellow and pale green[**P3: .]
+colour, yellow and pale green.
 
 A lustrous blue line was drawn against the dark forest
 of trunks as a kingfisher sped down-river. The buzzards
@@ -5110,10 +5110,10 @@ rough dog, who looked like a lurcher; the huntsman
 did not take Captain to important meets, for Captain’s
 voice was like a knife whose edge is turned. He did not
 throw his tongue, he screamed; and sometimes in his
-excitement he babbled, flinging water-lies about. Bit’m
+excitement he babbled, flinging water-lies about. Bite’m
 the terrier hurried among them, sometimes sniffing in
 tufts, hoping to find a rat to shake; and following
-Bite’m[**P1:Bit’m above], like an easy-going, big, heavy boy led by a sharp
+Bite’m, like an easy-going, big, heavy boy led by a sharp
 little quick-eyed tacker, came Rufus, who cared more
 for a nest of fieldmice than for a joint or rib of rank
 otter. After Rufus on the tide-wall ran Dewdrop,
@@ -6650,7 +6650,7 @@ out barking. A white owl lifted itself off the lopped
 bough of one of the churchyard elms, crying <i>skirr-rr</i>.
 An otter’s tiss of anger came from out of the culvert
 under the road. Striking a match the man saw, on the
-scour of red mud, the twy[**P3: two]-toed seal, identical with the
+scour of red mud, the two-toed seal, identical with the
 seal that led down to the sea after the Ice Winter.
 
 Tarka was gone down the narrow covered way of
@@ -6779,7 +6779,7 @@ across the water.
 
 Where the pill merged into the estuary the mud was
 scoured, leaving sand and gravel. Below the stone setts
-and pobbles[**P3: pebbles ?] of the wall’s apron, whose cracks held the
+and pebbles of the wall’s apron, whose cracks held the
 little ruddy winter leaves of the sea-beet, was an islet of
 flat stones, apart from the wall by a narrowing channel
 where water rushed. On the stone stood Old Nog,
@@ -7128,7 +7128,7 @@ crying, flew from their tree-top heronry in the wood
 -----File: 231.png---------------------------------------------------------
 below Halfpenny Bridge. And one evening in June, between
 the lights, Old Nog and his mate sailed down to
-the pool by the Railway Bridge to give the four fledgelings[**P2:fledglings below]
+the pool by the Railway Bridge to give the four fledglings
 their first lesson in fishing. Curlews saw the dark
 level wings gliding over the mudbanks, and cried the
 alarm, being afraid of the sharp beaks. Every year Old
@@ -7214,7 +7214,7 @@ piling. White-tip turned back into the pool.
 <i>Krark! Kak! Ark! Kak! Kack! Kack! Kack! Kack!
 Kak! Kak! Gark! Kack!</i>
 
-With heads upheld and watching[**P2:comma here?] the herons talked
+With heads upheld and watching, the herons talked
 among themselves. They saw three cubs fighting over
 the fish on the piling; and two heads in the water between
 the first and second pier. Tarquol, the eldest cub,
@@ -7476,7 +7476,7 @@ scratching and tearing at roots with their teeth. Soon
 the pack was trying to break into the entrance. They
 did not obey voice, horn, and whip at once, but had to
 be urged away by taps of whip-handles on ribs, and by
-individual commands. <i>Go’r’n leave it! Go’r’n leave it[**!]</i>
+individual commands. <i>Go’r’n leave it! Go’r’n leave it!</i>
 cried one of the honorary whips in a yarring voice, to
 Deadlock and Render who remained. A little shivering
 -----File: 242.png---------------------------------------------------------
@@ -7873,7 +7873,7 @@ Tarka had been lying among the cool and stinking
 garlic plants of Elm Island for nearly five minutes when
 he heard gasping and wheezing noises at the top of the
 island. The two terriers, Bite’m and Biff, were pulling
-at their chains, held by the kennel boy[**P2:hyphenated below]. Their tongues
+at their chains, held by the kennel-boy. Their tongues
 hung long and limp, after the two-mile tug from the
 mills over sun-baked turf, dusty trackway, and hot
 stones, to Elm Island. Just before, while tugging down
