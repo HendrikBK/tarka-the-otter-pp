@@ -276,7 +276,7 @@
 );
 
 
-$::bookmarks[0] = '8202.51';
+$::bookmarks[0] = '8206.0';
 
 $::pngspath = 'C:\Users\Win 10\Documents\tarka-the-otter-pp\pngs\\';
 
@@ -286,7 +286,7 @@ $::projectid = 'projectID668a2d37a6633';
 
 $::booklang = 'en';
 
-$::bookauthor = "";
+$::bookauthor = "Henry Williamson";
 
 $scannoslistpath = 'wordlist';
 
