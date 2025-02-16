@@ -276,7 +276,7 @@
 );
 
 
-$::bookmarks[0] = '1214.56';
+$::bookmarks[0] = '254.35';
 
 $::pngspath = 'C:\Users\Win 10\Documents\tarka-the-otter-pp\pngs\\';
 
