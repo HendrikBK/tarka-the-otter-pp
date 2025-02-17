@@ -165,12 +165,13 @@
 
         /* Images */
 
+        /*
         img {
         max-width: 100%;
         height: auto;
         }
         img.w100 {width: 100%;}
-
+*/
 
         .figcenter {
         margin: auto;
@@ -249,6 +250,57 @@
 
         .logo {
             max-height: 5em;
+            margin: auto;
+            display: block;
+        }
+
+        .larger {
+            font-size: 1.2em;
+        }
+
+        section + section,
+        hr + section {
+            margin-top: 5em;
+        }
+
+        #advert > div {
+            text-align: center;
+        }
+
+        #advert > div > div {
+            display: inline-block;
+            text-align: left;
+        }
+
+        #titlepage > p {
+            text-align: center;
+        }
+
+        #copyright > p {
+            text-align: center;
+        }
+
+        #dedication > p {
+            text-align: center;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        #toc > div {
+            text-align: center;
+        }
+
+        #toc > div > div {
+            display: inline-block;
+            text-align: initial;
+        }
+
+        li + li,
+        ul + li,
+        li + ul {
+            margin-top: 0.25em;
         }
 
         </style>
@@ -258,31 +310,34 @@
             <h1>TARKA THE OTTER</h1>
         </section>
         <section id="advert">
-            <p><i>Henry Williamson has also written</i></p>
-            <p>
-            THE OLD STAG<br>
-            SUN BROTHERS<br>
-            THE LONE SWALLOWS<br>
-            </p>
-            <p><i>Published by E. P. Dutton &amp; Company</i></p>
+            <div>
+                <div>
+                    <p><i>Henry Williamson has also written</i></p>
+                    <p>
+                    THE OLD STAG<br>
+                    SUN BROTHERS<br>
+                    THE LONE SWALLOWS<br>
+                    </p>
+                    <p><i>Published by E. P. Dutton &amp; Company</i></p>
+                </div>
+            </div>
         </section>
         <section id="titlepage">
-            <p>
-            TARKA THE OTTER<br>
-            HIS JOYFUL WATER-LIFE<br>
-            AND DEATH IN THE COUNTRY<br>
-            OF THE TWO RIVERS <img class="decor" src="images/decor.jpg" /> <img class="decor" src="images/decor.jpg" /> BY<br>
-            HENRY WILLIAMSON WITH<br>
-            AN INTRODUCTION BY THE<br>
-            HON. SIR JOHN FORTESCUE<br>
-            K.C.V.O.<br>
-            <br>
-            <img class="logo" src="images/logo.jpg"><br>
-            <br>
-            PUBLISHED BY E. P. DUTTON &amp; COMPANY<br>
-            FACING ST. THOMAS’S CHURCH<br>
-            ON FIFTH AVENUE IN NEW YORK<br>
-            </p>
+                <p><span class="larger">TARKA THE OTTER</span><br>
+                HIS JOYFUL WATER-LIFE<br>
+                AND DEATH IN THE COUNTRY<br>
+                OF THE TWO RIVERS <img class="decor" src="images/decor.jpg" /> <img class="decor" src="images/decor.jpg" /> BY<br>
+                HENRY WILLIAMSON WITH<br>
+                AN INTRODUCTION BY THE<br>
+                HON. SIR JOHN FORTESCUE<br>
+                K.C.V.O.
+                </p>
+
+                <img class="logo" src="images/logo.jpg">
+
+                <p>PUBLISHED BY E. P. DUTTON &amp; COMPANY<br>
+                FACING ST. THOMAS’S CHURCH<br>
+                ON FIFTH AVENUE IN NEW YORK</p>
         </section>
         <section id="copyright">
             <p>
@@ -294,40 +349,43 @@
         <section id="dedication">
             <p>
             TO<br>
-            WILLIAM HENRY ROGERS<br>
+            <span class="larger">WILLIAM HENRY ROGERS</span><br>
             </p>
         </section>
         <section id="toc">
             <h3>Contents</h3>
-            <ul>
-                <li><a href="#introduction">INTRODUCTION</a></li>
-                <li><a href="#part-1">THE FIRST YEAR</a></li>
+            <div><div>
                 <ul>
-                    <li><a href="#chapter-1">CHAPTER ONE</a></li>
-                    <li><a href="#chapter-2">CHAPTER TWO</a></li>
-                    <li><a href="#chapter-3">CHAPTER THREE</a></li>
-                    <li><a href="#chapter-4">CHAPTER FOUR</a></li>
-                    <li><a href="#chapter-5">CHAPTER FIVE</a></li>
-                    <li><a href="#chapter-6">CHAPTER SIX</a></li>
-                    <li><a href="#chapter-7">CHAPTER SEVEN</a></li>
-                    <li><a href="#chapter-8">CHAPTER EIGHT</a></li>
-                    <li><a href="#chapter-9">CHAPTER NINE</a></li>
-                    <li><a href="#chapter-10">CHAPTER TEN</a></li>
+                    <li><a href="#introduction">INTRODUCTION</a></li>
+                    <li><a href="#part-1">THE FIRST YEAR</a></li>
+                    <ul>
+                        <li><a href="#chapter-1">CHAPTER ONE</a></li>
+                        <li><a href="#chapter-2">CHAPTER TWO</a></li>
+                        <li><a href="#chapter-3">CHAPTER THREE</a></li>
+                        <li><a href="#chapter-4">CHAPTER FOUR</a></li>
+                        <li><a href="#chapter-5">CHAPTER FIVE</a></li>
+                        <li><a href="#chapter-6">CHAPTER SIX</a></li>
+                        <li><a href="#chapter-7">CHAPTER SEVEN</a></li>
+                        <li><a href="#chapter-8">CHAPTER EIGHT</a></li>
+                        <li><a href="#chapter-9">CHAPTER NINE</a></li>
+                        <li><a href="#chapter-10">CHAPTER TEN</a></li>
+                    </ul>
+                    <li><a href="#part-2">THE LAST YEAR</a></li>
+                    <ul>
+                        <li><a href="#chapter-11">CHAPTER ELEVEN</a></li>
+                        <li><a href="#chapter-12">CHAPTER TWELVE</a></li>
+                        <li><a href="#chapter-13">CHAPTER THIRTEEN</a></li>
+                        <li><a href="#chapter-14">CHAPTER FOURTEEN</a></li>
+                        <li><a href="#chapter-15">CHAPTER FIFTEEN</a></li>
+                        <li><a href="#chapter-16">CHAPTER SIXTEEN</a></li>
+                        <li><a href="#chapter-17">CHAPTER SEVETEEN</a></li>
+                        <li><a href="#chapter-18">CHAPTER EIGHTEEN</a></li>
+                        <li><a href="#chapter-19">CHAPTER NINETEEN</a></li>
+                        <li><a href="#last-chapter">LAST CHAPTER</a></li>
+                    </ul>
                 </ul>
-                <li><a href="#part-2">THE LAST YEAR</a></li>
-                <ul>
-                    <li><a href="#chapter-11">CHAPTER ELEVEN</a></li>
-                    <li><a href="#chapter-12">CHAPTER TWELVE</a></li>
-                    <li><a href="#chapter-13">CHAPTER THIRTEEN</a></li>
-                    <li><a href="#chapter-14">CHAPTER FOURTEEN</a></li>
-                    <li><a href="#chapter-15">CHAPTER FIFTEEN</a></li>
-                    <li><a href="#chapter-16">CHAPTER SIXTEEN</a></li>
-                    <li><a href="#chapter-17">CHAPTER SEVETEEN</a></li>
-                    <li><a href="#chapter-18">CHAPTER EIGHTEEN</a></li>
-                    <li><a href="#chapter-19">CHAPTER NINETEEN</a></li>
-                    <li><a href="#last-chapter">LAST CHAPTER</a></li>
-                </ul>
-            </ul>
+            </div>
+            </div>
         <!-- Autogenerated TOC. Modify or delete as required. -->
         <!-- End Autogenerated TOC. -->
 
@@ -336,10 +394,7 @@
         <section id="introduction">
 
 
-                <p><span class="pagenum" id="Page_ix">[Pg ix]</span></p>
-
-
-                <p>INTRODUCTION</p>
+                <h3>INTRODUCTION<span class="pagenum" id="Page_ix">[Pg ix]</span></h3>
 
 
                 <p>Men speak to each other of what they
@@ -480,10 +535,8 @@
                 <p>THE FIRST YEAR</p>
         </section>
         <section id="chapter-1">
-
-            <p><span class="pagenum" id="Page_3">[Pg 3]</span></p>
-
-            <p>TARKA THE OTTER</p>
+            
+            <p>TARKA THE OTTER<span class="pagenum" id="Page_3">[Pg 3]</span></p>
 
 
             <hr class="chap x-ebookmaker-drop">
