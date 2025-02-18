@@ -37,7 +37,7 @@
         clear: both;
         }
 
-        hr.tb   {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
+        /* hr.tb   {width: 45%; margin-left: 27.5%; margin-right: 27.5%;} */
         hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
         @media print { hr.chap {display: none; visibility: hidden;} }
         hr.full {width: 95%; margin-left: 2.5%; margin-right: 2.5%;}
@@ -258,6 +258,10 @@
             font-size: 1.2em;
         }
 
+        h2.larger {
+            font-size: 2em;
+        }
+
         section + section,
         hr + section {
             margin-top: 5em;
@@ -301,6 +305,32 @@
         ul + li,
         li + ul {
             margin-top: 0.25em;
+        }
+
+        [id^="chapter"] p,
+        #last-chapter p,
+        #introduction p {
+            text-indent: 1em;
+        }
+
+        [id^="chapter"] h3 + p,
+        #last-chapter h3 + p,
+        #introduction h3 + p {
+            hanging-punctuation: first last;
+            text-indent: 0em;
+        }
+
+        [id^="part"] {
+            margin-top: 5em;
+        }
+
+        #introduction footer p {
+            text-align: right;
+        }
+
+        hr.tb {
+            border: none;
+            margin-top: 1em;
         }
 
         </style>
@@ -526,24 +556,19 @@
                 world in which we can seek refuge among the toils and
                 the worries of life, and be thankful.</p>
 
-                <p>
-                <span class="smcap">J. W. Fortescue.</span><br>
-                </p>
+                <footer>
+                    <p><span class="smcap">J. W. Fortescue.</span></p>
+                </footer>
         </section>
         <section id="part-1">
 
-                <p>THE FIRST YEAR</p>
+                <h2 class="larger">THE FIRST YEAR</h2>
         </section>
         <section id="chapter-1">
             
-            <p>TARKA THE OTTER<span class="pagenum" id="Page_3">[Pg 3]</span></p>
+            <h2>TARKA THE OTTER<span class="pagenum" id="Page_3">[Pg 3]</span></h2>
 
-
-            <hr class="chap x-ebookmaker-drop">
-
-            <div class="chapter">
-        <h2 class="nobreak">CHAPTER ONE</h2>
-            </div>
+            <h3 class="nobreak">CHAPTER ONE</h3>
 
 
             <p>Dimmity on meadow and water, the
@@ -1078,7 +1103,7 @@
         <section id="chapter-2">
             <p><span class="pagenum" id="Page_20">[Pg 20]</span></p>
 
-        <h2 class="nobreak">CHAPTER TWO</h2>
+            <h3 class="nobreak">CHAPTER TWO</h3>
 
 
             <p>In mid-May the buds of the fallen oak
@@ -1626,7 +1651,7 @@
         <section id="chapter-3">
             <p><span class="pagenum" id="Page_37">[Pg 37]</span></p>
 
-        <h2 class="nobreak">CHAPTER THREE</h2>
+        <h3 class="nobreak">CHAPTER THREE</h3>
 
 
             <p>The shock-headed flowers of the yellow
@@ -2028,7 +2053,7 @@
         <section id="chapter-4">
             <p><span class="pagenum" id="Page_50">[Pg 50]</span></p>
 
-        <h2 class="nobreak">CHAPTER FOUR</h2>
+        <h3 class="nobreak">CHAPTER FOUR</h3>
 
 
             <p>Tarka was rolling on his back in the
@@ -2318,7 +2343,7 @@
         <section id="chapter-5">
             <p><span class="pagenum" id="Page_59">[Pg 59]</span></p>
 
-        <h2 class="nobreak">CHAPTER FIVE</h2>
+        <h3 class="nobreak">CHAPTER FIVE</h3>
 
 
             <p>When Tarka awoke he saw a small eye
@@ -2700,7 +2725,7 @@
         <section id="chapter-6">
             <p><span class="pagenum" id="Page_71">[Pg 71]</span></p>
 
-        <h2 class="nobreak">CHAPTER SIX</h2>
+        <h3 class="nobreak">CHAPTER SIX</h3>
 
 
             <p>Yellow from ash and elm and willow,
@@ -3088,7 +3113,7 @@
         <section id="chapter-7">
             <p><span class="pagenum" id="Page_84">[Pg 84]</span></p>
 
-        <h2 class="nobreak">CHAPTER SEVEN</h2>
+        <h3 class="nobreak">CHAPTER SEVEN</h3>
 
 
             <p>He was alone, a young male of a ferocious
@@ -3323,7 +3348,7 @@
         <section id="chapter-8">
             <p><span class="pagenum" id="Page_92">[Pg 92]</span></p>
 
-        <h2 class="nobreak">CHAPTER EIGHT</h2>
+        <h3 class="nobreak">CHAPTER EIGHT</h3>
 
 
             <p>The trees of the riverside wept their
@@ -3764,7 +3789,7 @@
         <section id="chapter-9">
             <p><span class="pagenum" id="Page_106">[Pg 106]</span></p>
 
-        <h2 class="nobreak">CHAPTER NINE</h2>
+        <h3 class="nobreak">CHAPTER NINE</h3>
 
 
             <p>The otters were alarmed by the coming
@@ -4070,7 +4095,7 @@
         <section id="chapter-10">
             <p><span class="pagenum" id="Page_116">[Pg 116]</span></p>
 
-        <h2 class="nobreak">CHAPTER TEN</h2>
+        <h3 class="nobreak">CHAPTER TEN</h3>
 
 
             <p>The little thin cub, on its couch among
@@ -4481,14 +4506,14 @@
             washed them away.</p>
         </section>
         <section id="part-2">
-            <p>THE LAST YEAR</p>
+            <h2 class="larger">THE LAST YEAR</h2>
 
         </section>
         <hr class="chap x-ebookmaker-drop">
         <section id="chapter-11">
             <p><span class="pagenum" id="Page_131">[Pg 131]</span></p>
 
-        <h2 class="nobreak">CHAPTER ELEVEN</h2>
+        <h3 class="nobreak">CHAPTER ELEVEN</h3>
 
 
             <p>Bogs and hummocks of the Great Kneeset
@@ -4827,7 +4852,7 @@
         <section id="chapter-12">
             <p><span class="pagenum" id="Page_142">[Pg 142]</span></p>
 
-        <h2 class="nobreak">CHAPTER TWELVE</h2>
+        <h3 class="nobreak">CHAPTER TWELVE</h3>
 
 
             <p>At sunset, as he was crossing a shoal to
@@ -5368,7 +5393,7 @@
         <section id="chapter-13">
             <p><span class="pagenum" id="Page_159">[Pg 159]</span></p>
 
-        <h2 class="nobreak">CHAPTER THIRTEEN</h2>
+        <h3 class="nobreak">CHAPTER THIRTEEN</h3>
 
 
             <p>The tide was flooding fast in midstream.
@@ -5842,7 +5867,7 @@
         <section id="chapter-14">
             <p><span class="pagenum" id="Page_174">[Pg 174]</span></p>
 
-        <h2 class="nobreak">CHAPTER FOURTEEN</h2>
+        <h3 class="nobreak">CHAPTER FOURTEEN</h3>
 
 
             <p>When the bees’ feet shake the bells of
@@ -6109,7 +6134,7 @@
         <section id="chapter-15">
             <p><span class="pagenum" id="Page_183">[Pg 183]</span></p>
 
-        <h2 class="nobreak">CHAPTER FIFTEEN</h2>
+        <h3 class="nobreak">CHAPTER FIFTEEN</h3>
 
 
             <p>He was awakened by the tremendous
@@ -6471,7 +6496,7 @@
         </section>
         <hr class="chap x-ebookmaker-drop">
         <section id="chapter-16">
-        <h2 class="nobreak">CHAPTER SIXTEEN</h2>
+        <h3 class="nobreak">CHAPTER SIXTEEN</h3>
 
 
             <p>Swimming towards the sunset Tarka
@@ -6820,7 +6845,7 @@
         <section id="chapter-17">
             <p><span class="pagenum" id="Page_205">[Pg 205]</span></p>
 
-        <h2 class="nobreak">CHAPTER SEVENTEEN</h2>
+        <h3 class="nobreak">CHAPTER SEVENTEEN</h3>
 
 
             <p>All day the wind shook the rusty reed-daggers
@@ -7392,7 +7417,7 @@
         <section id="chapter-18">
             <p><span class="pagenum" id="Page_223">[Pg 223]</span></p>
 
-        <h2 class="nobreak">CHAPTER EIGHTEEN</h2>
+        <h3 class="nobreak">CHAPTER EIGHTEEN</h3>
 
 
             <p>At half-past ten in the morning a covered
@@ -7794,7 +7819,7 @@
         <section id="chapter-19">
         <p><span class="pagenum" id="Page_236">[Pg 236]</span></p>
 
-    <h2 class="nobreak">CHAPTER NINETEEN</h2>
+    <h3 class="nobreak">CHAPTER NINETEEN</h3>
 
 
         <p>Tarka became one with the river, finding
@@ -8220,7 +8245,7 @@
         <section id="last-chapter">
             <p><span class="pagenum" id="Page_249">[Pg 249]</span></p>
 
-        <h2 class="nobreak">LAST CHAPTER</h2>
+        <h3 class="nobreak">LAST CHAPTER</h3>
 
 
             <p>When he had swum out of the gassed
