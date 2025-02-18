@@ -320,7 +320,8 @@
 
         [id^="chapter"] h3 + p,
         #last-chapter h3 + p,
-        #introduction h3 + p {
+        #introduction h3 + p,
+        p.continue {
             hanging-punctuation: first last;
             text-indent: 0em;
         }
@@ -340,6 +341,15 @@
 
         h1 {
             font-size: 3em;
+        }
+
+        #chapter-10 p:last-of-type div.center,
+        #chapter-20 p:last-of-type div.center {
+            text-align: center
+        }
+
+        #ending > * {
+            text-align: center;
         }
 
         </style>
@@ -4514,12 +4524,15 @@
             to the pill I went, over the guts in the salt grey turf,
             to the trickling mud where the linnets were fluttering at
             the seeds of the glasswort. There I spurred an otter,
-            but the tracks were old with tides, and worm castings
-            sat in many. Every fourth seal was marred,[**F1: this line and following 4 are centered]
-            with two toes set deeper in the mud.
-            They led down to the lap of the
-            low water, where the sea
-            washed them away.</p>
+            but the tracks were old with tides, and worm castings<br>
+                <div class="center">
+                sat in many. Every fourth seal was marred,</span><br>
+                with two toes set deeper in the mud.<br>
+                They led down to the lap of the<br>
+                low water, where the sea<br>
+                washed them away.
+                </div>
+            </p>
         </section>
         <hr class="chap x-ebookmaker-drop">
         <section id="part-2">
@@ -8582,7 +8595,7 @@
 
             <p><i>Yaa-aa-ee-io! Leu-in on ’im! Yaa-ee-oo!</i></p>
 
-            <p>[**no indent]for again Tarka had escaped from the worry, and had
+            <p class="continue">for again Tarka had escaped from the worry, and had
             merged into the narrow stream of water that hurried
             to Leaning Willow Island.</p>
 
@@ -8620,15 +8633,19 @@
             <p>They pulled the body out of the river and carried it
             to the bank, laying it on the grass, and looking down
             at the dead hound in sad wonder. And while they stood
-            there silently, a great bubble rose out of the depths,
-            and broke, and as they watched, another bubble[**F1: this line and following are centered]
-            shook to the surface, and broke; and
-            there was a third bubble in the
-            sea-going waters, and
-            nothing more.</p>
+            there silently, a great bubble rose out of the depths,<br>
+            <div class="center">
+                and broke, and as they watched, another bubble<br>
+                shook to the surface, and broke; and<br>
+                there was a third bubble in the<br>
+                sea-going waters, and<br>
+                nothing more.
+            </div>
+            </p>
 
             <p><span class="pagenum" id="Page_260">[Pg 260]</span></p>
         </section>
+        <hr class="chap x-ebookmaker-drop">
         <section id="ending">
             <p>
             HERE ENDS TARKA THE OTTER BY<br>
@@ -8636,7 +8653,7 @@
             JUNE 1923 AND FINISHED IN<br>
             FEBRUARY 1927 IN THE<br>
             VILLAGE OF HAM IN<br>
-            DEVON.<br>
+            DEVON.
             </p>
         </section>
     </body>
