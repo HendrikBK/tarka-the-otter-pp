@@ -276,7 +276,7 @@
 );
 
 
-$::bookmarks[0] = '82.28';
+$::bookmarks[0] = '8116.100';
 
 $::pngspath = 'C:\Users\Conape03\Documents\tarka-the-otter-pp\pngs\\';
 
