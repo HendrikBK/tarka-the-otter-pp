@@ -160,13 +160,19 @@
         [id^="chapter"] h3 + p,
         #last-chapter h3 + p,
         #introduction h3 + p,
-        p.continue,
+        .continue,
         .pfirst {
             hanging-punctuation: first last;
             text-indent: 0em !important;
         }
 
-        section[id^="part"] {
+        .continue{
+            hanging-punctuation: first last;
+            text-indent: 0em !important;
+        }
+
+        #part-1,
+        #part-2 {
             margin-top: 2em;
         }
 
